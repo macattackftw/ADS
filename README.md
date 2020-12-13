@@ -9,5 +9,5 @@ This was designed as a package.
 
 ## Upgrade
 - activate your python environment
-- go to the ML directory where [`setup.py`](ADS/setup.py) sits
+- go to the ADS directory where [`setup.py`](ADS/setup.py) sits
 - type `pip install .`
